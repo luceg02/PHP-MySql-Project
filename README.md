@@ -1,1 +1,1 @@
-"# PHP-MySql-Project" 
+Php project with MVC architecture
